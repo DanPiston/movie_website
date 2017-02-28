@@ -6,8 +6,7 @@ The purpose of this is to show my *Movie Trailer Website* project through Udacit
 1. Open entertainment_center.py
 2. entertainment_center.py contains instances of the class Movie for each movie
    tile that is generated. Change information here to customize.
-3. Run entertainment_center.py by running
-
+3. Run entertainment_center.py by running:
 ```
 python entertainment_center.py
 ```
